@@ -1,0 +1,12 @@
+/* Add 100px margin to bottom on all sides */
+
+/* Add dotter border with color red so much that the button become a circle */
+button{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 100px;
+  border: 2px dotted red;
+}
+

@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+#heading{text-align: center;}
+#container{
+  height: 600px;
+  width: 600px;
+  background-color: lavender;
+  border: 3px solid black;
+  padding: 10px;
+  margin: 20px;
+
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.box{
+  height: 100px;
+  width: 100px;
+  margin: 5px;
+  border: 2px solid black;
+}
+#box1{background-color: green;}
+#box2{background-color: yellow;}
+#box3{background-color: tomato;}
+#box4{background-color: aqua;}
+#box5{background-color: teal;}
+#box6{background-color: crimson;}
